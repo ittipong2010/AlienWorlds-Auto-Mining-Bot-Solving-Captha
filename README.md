@@ -10,7 +10,7 @@ And so let's proceed with the installation.
 
 Bot setup:
 
-1. Download Pyt h on 3.8 Windows x86–64 executable installer
+1. Download Python on 3.8 Windows x86–64 executable installer
 2. Install it, do not forget to select the ADD TO PATH checkbox
 3. Transfer the folder with the bot to the desktop for convenience, rename it to AWbot (the path to main.py should be something like this / desktop / AWbot (this is the name of the folder with the bot) /main.py
 4. Go to the console (CMD) and write cd desktop / awbot Or cd desktop, cd awbot
